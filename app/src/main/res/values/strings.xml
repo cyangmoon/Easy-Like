@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Easy Like</string>
+    <string name="editText_search_hint_format_fault">ID format fault (9 digitals)</string>
+    <string name="editText_search_hint_no_ID"> No such ID exists</string>
+</resources>
